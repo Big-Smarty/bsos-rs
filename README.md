@@ -1,2 +1,3 @@
 # bsos-rs
-tf do I know
+
+beans salad operating system with a layer of rust on top
